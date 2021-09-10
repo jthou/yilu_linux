@@ -1,7 +1,6 @@
 [Plymouth Theme]
 Name=yilu_1
-Description=yilu_1
-Comment=created By Aditya Shakya (@adi1090x)
+Description=yilu_1 plugin. 
 ModuleName=script
 
 [script]
